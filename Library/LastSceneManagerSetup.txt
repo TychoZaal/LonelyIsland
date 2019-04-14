@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Underwater project.unity
+- path: Assets/Scenes/Underwater project.unity
   isLoaded: 1
   isActive: 1

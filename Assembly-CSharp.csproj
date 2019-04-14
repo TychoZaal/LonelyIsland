@@ -61,10 +61,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\BindPostProcessing.cs" />
+    <Compile Include="Assets\Scripts\BloomEffect.cs" />
     <Compile Include="Assets\Scripts\GenerateGround.cs" />
     <Compile Include="Assets\Scripts\MoveCamera.cs" />
     <Compile Include="Assets\Scripts\MovementBubble.cs" />
+    <Compile Include="Assets\Scripts\PlaySound.cs" />
     <Compile Include="Assets\Scripts\SpawnObjects.cs" />
+    <None Include="Assets\Shaders\Bloom.shader" />
     <None Include="Assets\Shaders\Bubble.shader" />
     <None Include="Assets\Shaders\Bluetint.shader" />
     <None Include="Assets\Shaders\VertexWaves.shader" />

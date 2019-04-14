@@ -24,10 +24,6 @@ public class GenerateGround : MonoBehaviour
     {
         mesh = new Mesh();
         GetComponent<MeshFilter>().mesh = mesh;
-    }
-
-    private void Update()
-    {
         CreateShape();
         UpdateMesh();
     }

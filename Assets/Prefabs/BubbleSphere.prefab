@@ -106,6 +106,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.3
+  strength: 0
   spawnBubbles: {fileID: 0}
 --- !u!205 &5720865136128248045
 LODGroup:
