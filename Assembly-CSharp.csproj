@@ -62,11 +62,16 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\BindPostProcessing.cs" />
     <Compile Include="Assets\Scripts\BloomEffect.cs" />
+    <Compile Include="Assets\Scripts\DepthOfFieldEffect.cs" />
+    <Compile Include="Assets\Scripts\DepthOfFieldEffectMine.cs" />
     <Compile Include="Assets\Scripts\GenerateGround.cs" />
     <Compile Include="Assets\Scripts\MoveCamera.cs" />
     <Compile Include="Assets\Scripts\MovementBubble.cs" />
     <Compile Include="Assets\Scripts\PlaySound.cs" />
     <Compile Include="Assets\Scripts\SpawnObjects.cs" />
+    <None Include="Assets\Free_Rocks\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
+    <None Include="Assets\Shaders\DepthOfFieldMine.shader" />
+    <None Include="Assets\Shaders\DepthOfFieldShader.shader" />
     <None Include="Assets\Shaders\Bloom.shader" />
     <None Include="Assets\Shaders\Bubble.shader" />
     <None Include="Assets\Shaders\Bluetint.shader" />

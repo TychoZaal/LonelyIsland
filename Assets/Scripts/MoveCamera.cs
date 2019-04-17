@@ -12,7 +12,6 @@ public class MoveCamera : MonoBehaviour
     private CursorLockMode cursorState;
     public float yaw = 77.819f;
     public float pitch = 0.0f;
-    private float cameraHeight = 0.0f;
 
     private void Start()
     {
